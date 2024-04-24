@@ -40,7 +40,7 @@ form button {
 }
 
 form button {
-    color: sienna;
+    color: palevioletred;
     background: white;
     cursor: pointer;
     transition: all 0.3 ease;
@@ -169,3 +169,4 @@ select {
     background: white;
     color:indianred;
 }           
+
